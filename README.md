@@ -115,13 +115,22 @@ Commercial mobile application developed with Flutter and deployed through Fireba
 
 ## Professional interests
 
-```text
-AI Engineering  ███████████████████░
-Backend         ██████████████████░░
-Automation      ██████████████████░░
-Machine Learning████████████████░░░░
-Cloud & DevOps  ██████████████░░░░░░
-```
+## Contribution activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SbRivera/SbRivera/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SbRivera/SbRivera/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animated GitHub contribution graph"
+    src="https://raw.githubusercontent.com/SbRivera/SbRivera/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## Contact
 
