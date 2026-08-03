@@ -50,7 +50,7 @@
   </picture>
 </p>
 
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=react-dark&hide_border=true&area=true&radius=8&days=90&custom_title=Contributions%20during%20the%20last%203%20months"
@@ -64,7 +64,7 @@
     alt="GitHub contributions during the last three months"
     src="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=github-compact&hide_border=true&area=true&radius=8&days=90&custom_title=Contributions%20during%20the%20last%203%20months"
   />
-</picture>
+ </picture> -->
 
 ---
 
