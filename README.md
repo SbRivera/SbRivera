@@ -1,121 +1,271 @@
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0f172a,100:0ea5e9&height=220&section=header&text=Sebasti%C3%A1n%20Rivera&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18"
+    alt="Sebastián Rivera — AI Engineer and Software Developer"
+  />
+</p>
+
 <div align="center">
 
-# Sebastián Rivera
+<a href="https://sbrivera.github.io/Portafolio/">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Building+AI+systems+for+real+operations;Autonomous+agents+%7C+LLMs+%7C+RAG;Python+%7C+FastAPI+%7C+LangChain+%7C+TensorFlow"
+    alt="Professional focus typing animation"
+  />
+</a>
 
-### AI & Software Developer
+<br>
 
-`Python` · `LLMs` · `Autonomous Agents` · `Machine Learning` · `Backend Development`
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sbrivera.github.io/Portafolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sbrivera.github.io/Portafolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-SbRivera-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SbRivera)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianriv2112@gmail.com)
+
+![Profile updated](https://img.shields.io/github/last-commit/SbRivera/SbRivera?style=flat-square&label=Profile%20updated)
+![Followers](https://img.shields.io/github/followers/SbRivera?style=flat-square&label=Followers)
+![Repositories](https://img.shields.io/badge/Public%20repositories-46-0EA5E9?style=flat-square)
 
 </div>
 
 ---
 
-```python
-class SebastianRivera:
-    location = "Ecuador"
-    education = "Software Engineering graduate"
-    
-    focus = [
-        "Artificial Intelligence applications",
-        "Autonomous agents and LLM integrations",
-        "Machine Learning",
-        "Backend and API development",
-        "Process automation"
-    ]
+## `01 / Profile`
 
-    current_project = {
-        "name": "Autonomous Incident Management Agent",
-        "environment": "Financial cooperative",
-        "status": "Implementation"
-    }
+> Software Engineering graduate focused on building artificial intelligence systems, autonomous agents, backend services and process automation for real operational environments.
+
+My work combines **software engineering, machine learning and business process analysis**. I develop applications with Python, FastAPI, LangChain, TensorFlow, Laravel and Flutter, integrating commercial and locally deployed language models.
+
+I have worked on institutional incident management, computer vision, acoustic classification, SQL Server reporting, mobile applications and cloud deployments.
+
+```yaml
+name: Sebastián Rivera
+location: Ecuador
+
+role:
+  - AI Developer
+  - Software Developer
+
+currently_building:
+  project: Autonomous Incident Management Agent
+  environment: Financial cooperative
+  status: Implementation
+
+engineering_focus:
+  - LLM applications
+  - Autonomous agents
+  - RAG architectures
+  - Machine learning
+  - Backend systems
+  - Process automation
 ```
 
-## About me
+---
 
-Software Engineering graduate focused on the development of artificial intelligence applications, automation tools and data-driven systems.
+## `02 / Currently building`
 
-I build solutions using **Python, FastAPI, LangChain, TensorFlow, Laravel and Flutter**. My experience includes an autonomous agent for institutional incident management, production mobile applications, SQL Server reporting modules and machine learning prototypes for computer vision and acoustic classification.
-
-I have worked with commercial and local language models, including **OpenAI, Claude, Qwen, Kimi, Mistral, Meta Llama and Ollama**.
-
-## Current focus
-
-- Implementing an autonomous virtual agent for incident management at Coopartamos.
-- Building chatbot workflows and automated responses with LLMs.
-- Studying RAG architectures, embeddings and vector databases.
-- Strengthening cloud deployment, DevOps and MLOps practices.
-
-## Selected projects
+<table>
+<tr>
+<td width="62%" valign="top">
 
 ### Autonomous Incident Management Agent
 
-AI-based system designed to support the classification, response and management of internal technology incidents at Coopartamos.
+Institutional AI system designed to support the classification, response, tracking and management of internal technology incidents.
 
-**Technologies:** Python, LLMs, LangChain, APIs and institutional service workflows.  
-**Status:** Implementation as part of my graduation project.
+The solution integrates chatbot interaction, automated response generation and service-management workflows for approximately **20–35 institutional users**.
 
-### AEVision
+**Technical scope**
 
-Machine learning project for autonomous recycling classification using acoustic signals. I participated primarily in the early stages, including problem definition, research, solution design and initial validation.
+- LLM integration and prompt orchestration
+- Automated incident classification
+- Context-aware response generation
+- API and institutional workflow integration
+- Knowledge retrieval architecture
 
-**Status:** Production.
+</td>
+<td width="38%" valign="top">
 
-### Person Identification System
+### System status
 
-University computer vision project for person identification through image processing and machine learning.
+```text
+Environment : Production organization
+Domain      : Financial services
+Stage       : Implementation
+Interface   : Chatbot
+Users       : 20–35
+Architecture: Agent-based
+```
 
-**Technologies:** Python, TensorFlow and NumPy.
+![Status](https://img.shields.io/badge/status-in%20implementation-0EA5E9?style=for-the-badge)
 
-### Ecuagraphic Mobile Application
+</td>
+</tr>
+</table>
+
+---
+
+## `03 / Selected engineering work`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Incident Management Agent
+
+Autonomous virtual agent for supporting the internal technology service workflow at Coopartamos.
+
+**My work**
+
+- Agent architecture
+- LLM integration
+- Automated responses
+- Incident workflow analysis
+- Institutional implementation
+
+`Python` `LangChain` `LLMs` `APIs`
+
+![Implementation](https://img.shields.io/badge/status-implementation-0EA5E9?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### ♻️ AEVision
+
+Machine learning system for autonomous recycling classification using acoustic information.
+
+I participated in the early stages of the project, including problem definition, research, solution design and initial validation.
+
+`Machine Learning` `Acoustic Classification` `Research`
+
+![Production](https://img.shields.io/badge/status-production-22C55E?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Person Identification System
+
+University computer-vision prototype for identifying people through image processing and machine learning techniques.
+
+`Python` `TensorFlow` `NumPy` `Computer Vision`
+
+![Academic project](https://img.shields.io/badge/type-academic%20project-64748B?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Ecuagraphic Mobile Application
 
 Commercial mobile application developed with Flutter and deployed through Firebase.
 
-**Status:** Production.
+The application operates in a production environment.
 
-## Technology stack
+`Flutter` `Dart` `Firebase`
 
-### Artificial Intelligence
+![Production](https://img.shields.io/badge/status-production-22C55E?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+</td>
+</tr>
+</table>
 
-### Software development
+---
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+## `04 / Engineering stack`
 
-### Data and cloud
+<details open>
+<summary><strong>Artificial intelligence and machine learning</strong></summary>
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<br>
 
-### Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Models and ecosystems**
 
-## Professional interests
+`OpenAI` · `Claude` · `Qwen` · `Kimi` · `Mistral` · `Meta Llama` · `Ollama`
 
-## Contribution activity
+</details>
+
+<details>
+<summary><strong>Backend, web and mobile development</strong></summary>
+
+<br>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>Data, cloud and infrastructure</strong></summary>
+
+<br>
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
+
+---
+
+## `05 / Current engineering focus`
+
+```mermaid
+flowchart LR
+    A[Operational problem] --> B[Data and context]
+    B --> C[LLM or ML model]
+    C --> D[Agent and business rules]
+    D --> E[API integration]
+    E --> F[Production workflow]
+    F --> G[Monitoring and improvement]
+```
+
+```text
+01. Retrieval-Augmented Generation
+02. Agent orchestration and tool use
+03. Vector databases and semantic retrieval
+04. FastAPI-based AI services
+05. Cloud deployment and MLOps
+```
+
+---
+
+## `06 / Development activity`
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=react-dark&hide_border=true&area=true&radius=8&custom_title=Development%20activity"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Development%20activity"
+  />
+  <img
+    width="100%"
+    alt="Sebastián Rivera GitHub development activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Development%20activity"
+  />
+</picture>
+
+<br>
 
 <picture>
   <source
@@ -127,21 +277,34 @@ Commercial mobile application developed with Flutter and deployed through Fireba
     srcset="https://raw.githubusercontent.com/SbRivera/SbRivera/output/github-contribution-grid-snake.svg"
   />
   <img
+    width="100%"
     alt="Animated GitHub contribution graph"
     src="https://raw.githubusercontent.com/SbRivera/SbRivera/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
-## Contact
-
-- Portfolio: [sbrivera.github.io/Portafolio](https://sbrivera.github.io/Portafolio/)
-- GitHub: [github.com/SbRivera](https://github.com/SbRivera)
-- Email: [sebastianriv2112@gmail.com](mailto:sebastianriv2112@gmail.com)
-
 ---
+
+## `07 / Contact`
 
 <div align="center">
 
-### Building practical AI systems for real operational problems.
+### Interested in applied AI, automation and software engineering.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sbrivera.github.io-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sbrivera.github.io/Portafolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-SbRivera-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SbRivera)
+[![Email](https://img.shields.io/badge/Email-sebastianriv2112-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianriv2112@gmail.com)
+
+<br>
+
+> Building practical AI systems for real operational problems.
 
 </div>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0f172a,100:0ea5e9&height=120&section=footer"
+    alt=""
+  />
+</p>
