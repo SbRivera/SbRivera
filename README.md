@@ -53,16 +53,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=react-dark&hide_border=true&area=true&radius=8&days=180&custom_title=Contributions%20during%20the%20last%203%20months"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=react-dark&hide_border=true&area=true&radius=8&days=90&custom_title=Contributions%20during%20the%20last%203%20months"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=github-compact&hide_border=true&area=true&radius=8&days=180&custom_title=Contributions%20during%20the%20last%203%20months"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=github-compact&hide_border=true&area=true&radius=8&days=90&custom_title=Contributions%20during%20the%20last%203%20months"
   />
   <img
     width="100%"
     alt="GitHub contributions during the last three months"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=github-compact&hide_border=true&area=true&radius=8&days=180&custom_title=Contributions%20during%20the%20last%203%20months"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=github-compact&hide_border=true&area=true&radius=8&days=90&custom_title=Contributions%20during%20the%20last%203%20months"
   />
 </picture>
 
