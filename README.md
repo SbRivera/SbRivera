@@ -1,7 +1,6 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0f172a,100:0ea5e9&height=220&section=header&text=Sebasti%C3%A1n%20Rivera&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Software%20Developer&descAlignY=58&descSize=18"
     alt="Sebastián Rivera — AI and Software Developer"
   />
 </p>
