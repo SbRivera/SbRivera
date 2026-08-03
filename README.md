@@ -1,8 +1,8 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0f172a,100:0ea5e9&height=220&section=header&text=Sebasti%C3%A1n%20Rivera&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18"
-    alt="Sebastián Rivera — AI Engineer and Software Developer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0f172a,100:0ea5e9&height=220&section=header&text=Sebasti%C3%A1n%20Rivera&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Software%20Developer&descAlignY=58&descSize=18"
+    alt="Sebastián Rivera — AI and Software Developer"
   />
 </p>
 
@@ -21,27 +21,66 @@
 [![GitHub](https://img.shields.io/badge/GitHub-SbRivera-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SbRivera)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianriv2112@gmail.com)
 
+<br>
+
 ![Profile updated](https://img.shields.io/github/last-commit/SbRivera/SbRivera?style=flat-square&label=Profile%20updated)
 ![Followers](https://img.shields.io/github/followers/SbRivera?style=flat-square&label=Followers)
-![Repositories](https://img.shields.io/badge/Public%20repositories-46-0EA5E9?style=flat-square)
 
 </div>
 
 ---
 
-## `01 / Profile`
+## Contribution activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SbRivera/SbRivera/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SbRivera/SbRivera/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      width="100%"
+      alt="Animated GitHub contribution graph"
+      src="https://raw.githubusercontent.com/SbRivera/SbRivera/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=react-dark&hide_border=true&area=true&radius=8&custom_title=Contribution%20timeline"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Contribution%20timeline"
+  />
+  <img
+    width="100%"
+    alt="Sebastián Rivera GitHub contribution timeline"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Contribution%20timeline"
+  />
+</picture>
+
+---
+
+## Profile
 
 > Software Engineering graduate focused on building artificial intelligence systems, autonomous agents, backend services and process automation for real operational environments.
 
 My work combines **software engineering, machine learning and business process analysis**. I develop applications with Python, FastAPI, LangChain, TensorFlow, Laravel and Flutter, integrating commercial and locally deployed language models.
 
-I have worked on institutional incident management, computer vision, acoustic classification, SQL Server reporting, mobile applications and cloud deployments.
+My experience includes institutional incident management, computer vision, acoustic classification, SQL Server reporting, mobile applications and cloud deployment.
 
 ```yaml
 name: Sebastián Rivera
 location: Ecuador
 
-role:
+roles:
   - AI Developer
   - Software Developer
 
@@ -61,7 +100,7 @@ engineering_focus:
 
 ---
 
-## `02 / Currently building`
+## Currently building
 
 <table>
 <tr>
@@ -80,19 +119,21 @@ The solution integrates chatbot interaction, automated response generation and s
 - Context-aware response generation
 - API and institutional workflow integration
 - Knowledge retrieval architecture
+- Interaction with internal service processes
 
 </td>
+
 <td width="38%" valign="top">
 
-### System status
+### System context
 
 ```text
-Environment : Production organization
-Domain      : Financial services
-Stage       : Implementation
-Interface   : Chatbot
-Users       : 20–35
-Architecture: Agent-based
+Domain       : Financial services
+Stage        : Implementation
+Interface    : Chatbot
+Users        : 20–35
+Architecture : Agent-based
+Purpose      : Incident management
 ```
 
 ![Status](https://img.shields.io/badge/status-in%20implementation-0EA5E9?style=for-the-badge)
@@ -103,7 +144,7 @@ Architecture: Agent-based
 
 ---
 
-## `03 / Selected engineering work`
+## Selected engineering work
 
 <table>
 <tr>
@@ -111,14 +152,14 @@ Architecture: Agent-based
 
 ### 🤖 Incident Management Agent
 
-Autonomous virtual agent for supporting the internal technology service workflow at Coopartamos.
+Autonomous virtual agent designed to support the internal technology service workflow at Coopartamos.
 
-**My work**
+**Responsibilities**
 
 - Agent architecture
 - LLM integration
-- Automated responses
-- Incident workflow analysis
+- Automated response workflows
+- Incident-process analysis
 - Institutional implementation
 
 `Python` `LangChain` `LLMs` `APIs`
@@ -126,13 +167,14 @@ Autonomous virtual agent for supporting the internal technology service workflow
 ![Implementation](https://img.shields.io/badge/status-implementation-0EA5E9?style=flat-square)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ♻️ AEVision
 
 Machine learning system for autonomous recycling classification using acoustic information.
 
-I participated in the early stages of the project, including problem definition, research, solution design and initial validation.
+I participated in the initial phases of the project, including problem definition, technical research, solution design and preliminary validation.
 
 `Machine Learning` `Acoustic Classification` `Research`
 
@@ -146,18 +188,19 @@ I participated in the early stages of the project, including problem definition,
 
 ### 👁️ Person Identification System
 
-University computer-vision prototype for identifying people through image processing and machine learning techniques.
+Computer vision prototype developed as a university project for identifying people through image processing and machine learning techniques.
 
 `Python` `TensorFlow` `NumPy` `Computer Vision`
 
 ![Academic project](https://img.shields.io/badge/type-academic%20project-64748B?style=flat-square)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📱 Ecuagraphic Mobile Application
 
-Commercial mobile application developed with Flutter and deployed through Firebase.
+Commercial mobile application developed with Flutter and deployed using Firebase.
 
 The application operates in a production environment.
 
@@ -171,7 +214,7 @@ The application operates in a production environment.
 
 ---
 
-## `04 / Engineering stack`
+## Engineering stack
 
 <details open>
 <summary><strong>Artificial intelligence and machine learning</strong></summary>
@@ -225,77 +268,31 @@ The application operates in a production environment.
 
 ---
 
-## `05 / Current engineering focus`
-
-```mermaid
-flowchart LR
-    A[Operational problem] --> B[Data and context]
-    B --> C[LLM or ML model]
-    C --> D[Agent and business rules]
-    D --> E[API integration]
-    E --> F[Production workflow]
-    F --> G[Monitoring and improvement]
-```
+## Technical focus
 
 ```text
-01. Retrieval-Augmented Generation
-02. Agent orchestration and tool use
-03. Vector databases and semantic retrieval
-04. FastAPI-based AI services
-05. Cloud deployment and MLOps
+Retrieval-Augmented Generation
+Agent orchestration and tool use
+Vector databases and semantic retrieval
+FastAPI-based AI services
+Machine learning and computer vision
+Cloud deployment and MLOps
+Process automation
 ```
 
 ---
 
-## `06 / Development activity`
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=react-dark&hide_border=true&area=true&radius=8&custom_title=Development%20activity"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Development%20activity"
-  />
-  <img
-    width="100%"
-    alt="Sebastián Rivera GitHub development activity"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SbRivera&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Development%20activity"
-  />
-</picture>
-
-<br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SbRivera/SbRivera/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SbRivera/SbRivera/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    alt="Animated GitHub contribution graph"
-    src="https://raw.githubusercontent.com/SbRivera/SbRivera/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
-## `07 / Contact`
+## Contact
 
 <div align="center">
 
-### Interested in applied AI, automation and software engineering.
+### Applied artificial intelligence, automation and software engineering.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sbrivera.github.io-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sbrivera.github.io/Portafolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-SbRivera-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SbRivera)
 [![Email](https://img.shields.io/badge/Email-sebastianriv2112-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianriv2112@gmail.com)
 
-<br>
+<br><br>
 
 > Building practical AI systems for real operational problems.
 
